@@ -5,6 +5,14 @@ b.komunikasi daring asinkron
 c.github
 -membuat akun
 -membuat repository
+-membuat file baru 
+-membuat commit
 d.git
 -belum
+
+
+
+
+
+
 
