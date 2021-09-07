@@ -3,5 +3,7 @@ a.komunikasi daring sinkron
 b.komunikasi daring asinkron
 -Email
 c.github
+-membuat akun
+-membuat repository
 d.git
 
