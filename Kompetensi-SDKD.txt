@@ -6,4 +6,5 @@ c.github
 -membuat akun
 -membuat repository
 d.git
+-belum
 
